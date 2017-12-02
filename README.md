@@ -1,4 +1,4 @@
-# OccuranceChecker
+# OccurenceChecker
 Check for occurance of the letters AGCT in another string that's at least as long as the first string.
 Sentences are split with a space.
 For example, this would be a correct way to input something into the console: AGT AGAGAGAGAGT
